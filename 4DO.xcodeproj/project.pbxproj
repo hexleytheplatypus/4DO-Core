@@ -43,7 +43,6 @@
 		575ACC341582D50400EAC45A /* time.c in Sources */ = {isa = PBXBuildFile; fileRef = 575ACBF91582C37400EAC45A /* time.c */; };
 		575ACC391582D51900EAC45A /* liblibcue.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 575ACC271582D4F000EAC45A /* liblibcue.a */; };
 		8D5B49B0048680CD000E48DA /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 089C167DFE841241C02AAC07 /* InfoPlist.strings */; };
-		8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1058C7ADFEA557BF11CA2CBB /* Cocoa.framework */; };
 		942597C515146FF40074E3A3 /* OpenEmuBase.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 942597C415146FF40074E3A3 /* OpenEmuBase.framework */; };
 		94551A1719A71E390080929A /* _3do_sys.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 578D12271582B03E003F64E5 /* _3do_sys.cpp */; };
 		94551A1819A71E390080929A /* arm.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 578D12281582B03E003F64E5 /* arm.cpp */; };
@@ -179,7 +178,6 @@
 			files = (
 				575ACC391582D51900EAC45A /* liblibcue.a in Frameworks */,
 				942597C515146FF40074E3A3 /* OpenEmuBase.framework in Frameworks */,
-				8D5B49B4048680CD000E48DA /* Cocoa.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
